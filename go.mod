@@ -1,4 +1,4 @@
-module backend-api
+module github.com/drakoRRR/backend-api
 
 go 1.22
 

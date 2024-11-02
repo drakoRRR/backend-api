@@ -1,10 +1,10 @@
 package main
 
 import (
-	"backend-api/cmd/api"
-	env "backend-api/config"
-	"backend-api/db"
 	"database/sql"
+	"github.com/drakoRRR/backend-api/cmd/api"
+	env "github.com/drakoRRR/backend-api/config"
+	"github.com/drakoRRR/backend-api/db"
 	"github.com/go-sql-driver/mysql"
 	"log"
 )

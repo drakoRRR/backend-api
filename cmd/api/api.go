@@ -1,8 +1,8 @@
 package api
 
 import (
-	"backend-api/service/user"
 	"database/sql"
+	"github.com/drakoRRR/backend-api/service/user"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
